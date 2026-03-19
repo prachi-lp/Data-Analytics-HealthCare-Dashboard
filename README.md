@@ -14,6 +14,7 @@ To analyze hospital admission patterns
 To provide data-driven insights for healthcare management
 
 ## Dataset Used
+<a herf='https://github.com/prachi-lp/Data-Analytics-HealthCare-Dashboard/blob/main/dashboard%20view.png'>Dashboard View</a>
 
 ## Key Performance Indicators (KPIs)
 KPI       	                  Value	                        Description

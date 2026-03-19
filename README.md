@@ -14,7 +14,7 @@ To analyze hospital admission patterns
 To provide data-driven insights for healthcare management
 
 ## Dataset Used
-<a herf=https://github.com/prachi-lp/Data-Analytics-HealthCare-Dashboard/blob/main/healthcare.xlsx>DashboardSet</a>
+<a herf= https://github.com/prachi-lp/Data-Analytics-HealthCare-Dashboard/blob/main/healthcare.xlsx>Dataset</a>
 
 ## Key Performance Indicators (KPIs)
 KPI       	                  Value	                        Description
@@ -56,6 +56,7 @@ Patient satisfaction scores help evaluate hospital service quality.
 
 # Dashboard Interaction
 <a href=https://github.com/prachi-lp/Data-Analytics-HealthCare-Dashboard/blob/main/dashboard%20view.png>Dashboard view</a>
+
 ## Conclusion
 The Healthcare Data Analysis Dashboard provides valuable insights into hospital operations and patient behavior. By visualizing key healthcare metrics, the dashboard helps healthcare administrators monitor performance and identify areas for improvement.
 Using Power BI, the project demonstrates how data visualization can support better decision-making in healthcare by improving:

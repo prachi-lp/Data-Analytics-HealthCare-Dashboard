@@ -35,6 +35,9 @@ Do waiting times vary across different patient demographics?
 Are hospital visits more common in AM or PM hours?
 How do hospital admissions differ by gender?
 
+# Dashboard View 
+
+
 ## Project Process
 1. Data Collection – Healthcare dataset containing patient information
 2. Data Cleaning – Removed duplicates, handled missing values, formatted fields
@@ -51,6 +54,8 @@ The White patient group represents the largest demographic segment in the datase
 Waiting times differ among patient groups.
 Patient satisfaction scores help evaluate hospital service quality.
 
+# Dashboard Interaction
+<a href=https://github.com/prachi-lp/Data-Analytics-HealthCare-Dashboard/blob/main/dashboard%20view.png>Dashboard view</a>
 ## Conclusion
 The Healthcare Data Analysis Dashboard provides valuable insights into hospital operations and patient behavior. By visualizing key healthcare metrics, the dashboard helps healthcare administrators monitor performance and identify areas for improvement.
 Using Power BI, the project demonstrates how data visualization can support better decision-making in healthcare by improving:

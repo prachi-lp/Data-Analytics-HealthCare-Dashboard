@@ -14,7 +14,7 @@ To analyze hospital admission patterns
 To provide data-driven insights for healthcare management
 
 ## Dataset Used
-<a herf='https://github.com/prachi-lp/Data-Analytics-HealthCare-Dashboard/blob/main/dashboard%20view.png'>Dashboard View</a>
+<a herf=>DashboardSet</a>
 
 ## Key Performance Indicators (KPIs)
 KPI       	                  Value	                        Description
@@ -35,8 +35,8 @@ Do waiting times vary across different patient demographics?
 Are hospital visits more common in AM or PM hours?
 How do hospital admissions differ by gender?
 
-# Dashboard View 
-
+# Dashboard
+<img width="1482" height="835" alt="dashboard view" src="https://github.com/user-attachments/assets/44a521a3-9277-4200-b5d6-a9b5f9ef2171" />
 
 ## Project Process
 1. Data Collection – Healthcare dataset containing patient information
